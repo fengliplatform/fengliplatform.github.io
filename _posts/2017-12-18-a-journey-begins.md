@@ -1,5 +1,6 @@
 ---
-published: false
+layout: post
+title: A Journey Begins
 ---
 ## A Journey Begins
 
