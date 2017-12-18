@@ -1,7 +1,7 @@
 ---
 layout: post
 title: A Journey Begins
+published: true
 ---
-## A Journey Begins
 
-A lot has had happened in past one year. 
+A lot has had happened in past one year.
