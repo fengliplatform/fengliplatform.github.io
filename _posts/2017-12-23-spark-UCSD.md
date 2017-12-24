@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Some MongoDB/Spark exercise (part 2)
+title: Some MongoDB/Spark exercises (part 2)
 ---
 This is an assignment in Coursera Big Data course by UCSD.
 
