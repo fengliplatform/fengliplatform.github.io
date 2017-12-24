@@ -19,7 +19,8 @@ This hands on is based on Cloudera Quickstart VM.
 So we took a look at how may records in collection "users" and showed fields and values of the first record.
 
 ####Next, question 1, how many tweets have location not null?
-We can use following commands to figure it out.
-![location null](images/ucsd-mongodb/location.png)
-Also another way
-![location null 2](images/ucsd-mongodb/location2.png)
+We can use following commands to figure it out.  
+![location null](/images/ucsd-mongodb/location.png)
+
+Also another way  
+![location null 2](/images/ucsd-mongodb/location2.png)
