@@ -24,3 +24,18 @@ We can use following commands to figure it out.
 
 Also another way  
 ![location null 2](/images/ucsd-mongodb/location2.png)
+
+####Quesion 2, How many people have more followers than friends?
+![followers-friends](/images/ucsd-mongodb/followers-friends.png)
+
+####Question 3, Return text of tweets which have the string "http://" ?
+![http](/images/ucsd-mongodb/http.png)
+
+####Question 4, Return all the tweets which contain text "England" but not "UEFA" ?
+![england-uefa](/images/ucsd-mongodb/england-uefa.png)
+
+####Question 5, Get all the tweets from the location "Ireland" and contains the string "UEFA"?
+So we'll create text index and do search with multiple conditions on it.  
+![index](/images/ucsd-mongodb/index.png)  
+![q5](/images/ucsd-mongodb/q5.png)  
+
