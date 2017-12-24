@@ -34,8 +34,13 @@ Also another way
 ####Question 4, Return all the tweets which contain text "England" but not "UEFA" ?
 ![england-uefa](/images/ucsd-mongodb/england-uefa.png)
 
-####Question 5, Get all the tweets from the location "Ireland" and contains the string "UEFA"?
+####Question 5, Get all the tweets from the location "Ireland" and contains the string "UEFA" And then find who has most of the friends.  
 So we'll create text index and do search with multiple conditions on it.  
 ![index](/images/ucsd-mongodb/index.png)  
 ![q5](/images/ucsd-mongodb/q5.png)  
+
+####Last, let's export collection users to csv file and use it in part 2 tasks.  
+A field list has to be specified to export to csv file.  
+![export](/images/ucsd-mongodb/export.png) 
+
 
