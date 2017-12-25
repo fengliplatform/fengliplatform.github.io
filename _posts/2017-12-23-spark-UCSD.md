@@ -20,11 +20,15 @@ We did removal of empty lines so we can see the lines number changed.
 
 ### Next do a word count to tweet data
 ![tweet-map](/images/ucsd-mongodb/tweet-map.png)
-So we can see after flatMap, line number changed from 13396 to 231695 which reflected flatMap this transformation has mapped each line in tweetLinesRDDClean to multiple lines with one word each in tweetWords.  
-After that, we did a map to convert word lines to tuple lines which kept the same number of lines - 231695.
+So we can see after flatMap, line number changed from 13396 to 231695 which reflected flatMap this transformation has mapped each line in tweetLinesRDDClean to multiple lines with one word each in tweetWords. 
+
+After that, we did a map to convert word lines to tuple lines which kept the same number of lines - 231695. 
+
 And next reduceByKey merged the line with same words to one line so the total line number changed to 55736.  
+
 We can also save this word count result to file and take a look - try a search of France:  
 ![France](/images/ucsd-mongodb/France.png)  
+
 Hmm...We can see "#France", "France," etc. are treated as different words with their own counts. This is not what we want. We may need to remove punctuation from tweets before counting. But we'll leave it here for now.   
 
 ### Next, we'll create dataframe from tweet word count results
