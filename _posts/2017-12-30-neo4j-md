@@ -1,0 +1,16 @@
+---
+layout: post
+title: Neo4j study - tool for Entity/Relation (Ontology) Data Model
+---
+
+So when talking about data models in the context of data curation, we know there are three main types: relational model, tree model
+and Entity Relation model.  
+
+We're all familar with the first two models and tools to deal with them. But not for ER model. It's easy to understand the concept
+but rarely you can find as many discussions about tools and applications. This also seems to be a missing part in Data Curation lecture
+in UIUC.  
+
+So here we go, in this study I'll try to take a look at Neo4j graph database, cypher query language and Neo4j Python/Spark API.  
+
+<TBD>
+
