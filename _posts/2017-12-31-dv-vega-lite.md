@@ -3,7 +3,7 @@ layout: post
 title: Airquality Dataset Viz with Vega-lite
 ---
 
-This project is a final project for Data Viz course by UIUC in Coursera. The purpose of the project is to practise narrative visualization structure using Java script plus Vega/Vega-lite libraries.  
+This project is a final project for Data Viz course by UIUC in Coursera. The purpose of the project is to practice narrative visualization structure using Java script plus Vega/Vega-lite libraries.  
 
 This Data Viz project can be seen at [link](https://fengliplatform.github.io/dataviz-uiuc/index.html)
 
