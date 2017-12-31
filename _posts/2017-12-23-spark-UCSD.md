@@ -38,6 +38,6 @@ Hmm...We can see "#France", "France," etc. are treated as different words with t
 ### So it's time to merge the two dataframe on country name and word columns.
 ![merge-df](/images/ucsd-mongodb/merge-df.png)
 
-### Finaly, let's try to answer some questions.
+### Finally, let's try to answer some questions.
 ![questions](/images/ucsd-mongodb/questions.png)  
 
