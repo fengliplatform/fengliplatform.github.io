@@ -1,11 +1,11 @@
 ---
 layout: post
-title: Airquality Dateset Viz with Vega-lite
+title: Airquality Dataset Viz with Vega-lite
 ---
 
 This project is a final project for Data Viz course by UIUC in Coursera. The purpose of the project is to practise narrative visualization structure using Java script plus Vega/Vega-lite libraries.  
 
-This Data Viz prject can be seen at [link](https://fengliplatform.github.io/dataviz-uiuc/index.html)
+This Data Viz project can be seen at [link](https://fengliplatform.github.io/dataviz-uiuc/index.html)
 
 This project follows the Interactive Slideshow narrative visualization structure. It is a hybrid structure mixing author-lead and reader-lead scenes. This project consists a Home page, three Scene pages and a Final summary page. So user will follow an author directed path through the slideshow. During home page and the three scenes user can drill down a little bit for some details which they are interested. Or user can just continue if they are not interested to certain pages.  
 
