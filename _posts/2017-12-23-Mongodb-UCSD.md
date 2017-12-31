@@ -25,7 +25,7 @@ We can use following commands to figure it out.
 Also another way  
 ![location null 2](/images/ucsd-mongodb/location2.png)
 
-### Quesion 2, How many people have more followers than friends?
+### Question 2, How many people have more followers than friends?
 ![followers-friends](/images/ucsd-mongodb/followers-friends.png)
 
 ### Question 3, Return text of tweets which have the string "http://" ?
